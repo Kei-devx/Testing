@@ -1,0 +1,33 @@
+.outerdiv{
+    display: flex;
+}
+.innerdiv{
+    background-color: #333742;
+    border: 2px solid aqua;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+}
+.txtcol1{
+    color: chocolate;
+}
+.txtcol2{
+    color: deeppink;
+}
+.txtcol3{
+    color: crimson;    
+}
+#first{
+    color: lightcoral;
+}
+#second{
+    color: lightgreen;
+}
+#third{
+    color: yellow;
+}
+#header{
+    color: tomato;
+    background-color: black;
+    text-align: center;
+}

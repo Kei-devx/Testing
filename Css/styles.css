@@ -1,0 +1,18 @@
+h1{
+    color: red
+}
+#ul1{
+    color:cyan;
+    background-color: black;
+}
+#ol1{
+    color:springgreen;
+    background-color: black;
+}
+.para{
+    color: brown;
+    background-color: black;
+}
+#ol1 li{
+    color: chocolate;;
+}

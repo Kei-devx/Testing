@@ -1,0 +1,11 @@
+p.first {
+    font-size: 30px;
+    color: crimson;
+}
+p{
+    font-size: 30px;
+    color: blue;
+}
+#second{
+    color: chartreuse;
+}
